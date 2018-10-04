@@ -1,6 +1,6 @@
 .library-course {
     display: grid;
-    grid-template-columns: 1fr 45px 58px;
+    grid-template-columns: 1fr 45px 58px [scrollbar-space-s] 10px [scrollbar-space-e];
     grid-template-rows: 32px 1fr;
 
     align-items: center;
